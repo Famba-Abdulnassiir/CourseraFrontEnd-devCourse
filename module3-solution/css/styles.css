@@ -1,0 +1,35 @@
+*{
+  box-sizing: border-box;
+}
+body {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+  
+}
+.para{
+  background-color: #999999;
+  margin: 5px;
+  padding: 5px;
+}
+.para h3{
+  text-align: center;
+}
+#nav-list{
+  text-align: center;
+  color: black;
+  background-color:violet;
+
+}
+.col{
+  margin-bottom: 20px;
+}
+.brand{
+  font-weight: bold;
+  color: black;
+}
+.navbar{
+  background-color: cadetblue;
+  border: 0px;
+  border-radius: 0px;
+}
